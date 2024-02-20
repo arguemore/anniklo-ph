@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ANNIKLO PH',
-  domain: 'anniklo.algomore.tech',
+  domain: 'anniklo.vercel.app',
   author: 'Algomore Tech',
 
   // open graph metadata (optional)
