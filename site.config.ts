@@ -6,15 +6,15 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: 'spoqsaf9291f',
 
   // basic site info (required)
   name: 'ANNIKLO PH',
   domain: 'anniklo.algomore.tech',
-  author: 'Annika',
+  author: 'Algomore Tech',
 
   // open graph metadata (optional)
-  description: 'Not applicable',
+  description: 'Shop unique thrift finds while supporting genuine bipolar disorder awareness. Help bring hope and understanding. Join our pop-up garage-sale thrift shop!',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
@@ -69,13 +69,5 @@ export default siteConfig({
        title: 'Hire Me',
        pageId: '4841af4f90cd4193bd3a273916ebda9c'
      },
-     {
-       title: 'Privacy Policy',
-       pageId: '2512e5cddea04987952257e921a3ae3e'
-     },
-     {
-       title: 'Terms and Conditions',
-       pageId: '5983657d6e734149a6ccef9b575b3a2d'
-     }
    ]
 })
