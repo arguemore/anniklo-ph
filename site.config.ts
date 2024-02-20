@@ -54,9 +54,13 @@ export default siteConfig({
    navigationStyle: 'custom',
    navigationLinks: [
      {
-       title: 'Tracking',
-       pageId: 'f8b6f44a89bb43bc8a869b7f917f1dea'
+       title: 'Shop',
+       pageId: '2756e12ab3664d85ba7439420eb12ce7'
      },
+     {
+      title: 'Tracking',
+      pageId: 'f8b6f44a89bb43bc8a869b7f917f1dea'
+    },
      {
        title: 'FAQs',
        pageId: '10f57492a2dc41f8b1aa34c33d8a710b'
@@ -69,5 +73,6 @@ export default siteConfig({
        title: 'Hire Me',
        pageId: '4841af4f90cd4193bd3a273916ebda9c'
      },
+
    ]
 })
